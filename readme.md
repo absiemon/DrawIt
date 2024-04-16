@@ -12,7 +12,6 @@
 	<a href="https://draw-it-ten.vercel.app/">Live demo</a>
 </p>
 
-
 ## Features
 
 - **Real-Time Collaboration**: DrawIt enables multiple users to collaborate on the same drawing simultaneously using WebSockets.
@@ -26,6 +25,9 @@
 - **Layers**: Organize your drawing with layers for better management and control.
 - **Delete and Duplicate**: Delete shapes and elements, and duplicate them for quick replication.
 - **Stroke Style**: Change stroke style for shapes.
+
+![image](https://github.com/absiemon/DrawIt/assets/106826721/ce4dd7e7-e407-44b6-9874-ee9d7adf27e2)
+
 
 ## Tech Stack
 
